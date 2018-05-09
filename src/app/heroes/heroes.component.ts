@@ -13,6 +13,7 @@ export class HeroesComponent implements OnInit {
   selectedHero: Hero;
 
   constructor() { }
+  //Todo
 
   ngOnInit() {
   }
